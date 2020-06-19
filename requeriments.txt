@@ -1,0 +1,3 @@
+pip install pytest
+pip install requests
+pip install pytest-html ## é complementar do pytest mas já vem no pytest
