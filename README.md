@@ -29,3 +29,5 @@ Gere o relatório de testes com o comando:
 ```
 pytest testes.py --html=report.html
 ```
+Link do [video](https://fatecspgov-my.sharepoint.com/:v:/g/personal/willian_silva88_fatec_sp_gov_br/EWJwwTU-A6FFs5TyyLbttNYB7fjLlgtc1dXYocipZgR6hw?e=vDruJ1) (foram muitas tentativas de fica algo decente mas falhei)
+
