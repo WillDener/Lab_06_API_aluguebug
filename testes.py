@@ -32,6 +32,12 @@ def teste_dia_11_WDSP():
     assert valor['valor_calculado'] == valor_descontado
 
 
+def teste_dia_15_WDSP():
+    valor = z.aluguel(350.0, 15)
+    valor_descontado = 350.0
+    assert valor['valor_calculado'] == valor_descontado
+
+
 def teste_dia_16_WDSP():
     valor_nominal = 350.0
     valor = z.aluguel(valor_nominal, 16)
